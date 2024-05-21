@@ -1,0 +1,69 @@
+potentialCases:
+  class: File
+  path: replaceMe.csv
+inputModule1:
+  class: File
+  path: python/read-potential-cases.py
+inputModule2:
+  class: File
+  path: python/developmental-intellectual-disability---primary.py
+inputModule3:
+  class: File
+  path: python/intellectual-disability-imbecile---primary.py
+inputModule4:
+  class: File
+  path: python/intellectual-disability-invtation---primary.py
+inputModule5:
+  class: File
+  path: python/intellectual-disability-learning---primary.py
+inputModule6:
+  class: File
+  path: python/intellectual-disability-attend---primary.py
+inputModule7:
+  class: File
+  path: python/profound-intellectual-disability---primary.py
+inputModule8:
+  class: File
+  path: python/moderate-intellectual-disability---primary.py
+inputModule9:
+  class: File
+  path: python/intellectual-disability-action---primary.py
+inputModule10:
+  class: File
+  path: python/specific-intellectual-disability---primary.py
+inputModule11:
+  class: File
+  path: python/intellectual-disability-assessment---primary.py
+inputModule12:
+  class: File
+  path: python/severe-intellectual-disability---primary.py
+inputModule13:
+  class: File
+  path: python/intellectual-disability-declined---primary.py
+inputModule14:
+  class: File
+  path: python/intellectual-disability-subnormality---primary.py
+inputModule15:
+  class: File
+  path: python/intellectual-disability-moron---primary.py
+inputModule16:
+  class: File
+  path: python/intellectual-disability-skill---primary.py
+inputModule17:
+  class: File
+  path: python/intellectual-disability-feebleminded---primary.py
+inputModule18:
+  class: File
+  path: python/intellectual-disability-idiocy---primary.py
+inputModule19:
+  class: File
+  path: python/intellectual-disability-behaviour---primary.py
+inputModule20:
+  class: File
+  path: python/disability---primary.py
+inputModule21:
+  class: File
+  path: python/intellectual-disability-history---primary.py
+inputModule22:
+  class: File
+  path: python/output-cases.py
